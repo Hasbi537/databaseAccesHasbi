@@ -1,6 +1,6 @@
 {
   "creator": "6285117072758",
-  "secretCode": "Hasbijembut",
+  "secretCode": "XFormy",
   "description": "secretKey for X-Saturns.",
   "lastUpdated": "30-05-2025",
   "author": "Dxyvxz",
