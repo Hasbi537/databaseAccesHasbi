@@ -1,9 +1,9 @@
 {
-  "creator": "6285117072758",
+  "creator": "6283899977000",
   "secretCode": "XFormy",
-  "description": "secretKey for X-Saturns.",
+  "description": "secretKey for XFormy.",
   "lastUpdated": "30-05-2025",
-  "author": "Dxyvxz",
+  "author": "kaska",
   "status": "Active",
   "license": "MIT",
   "version": "5.1.2",
